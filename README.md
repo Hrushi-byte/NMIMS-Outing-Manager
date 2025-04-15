@@ -37,7 +37,8 @@ An all-in-one Android application designed for **students and wardens** at NMIMS
 
 ## 📷 Screenshots / Demo
 
-> *(You can add images or video links here once uploaded)*
+![a](https://github.com/user-attachments/assets/c96a582d-164c-4203-9075-1e0f55869678)
+
 
 ---
 
