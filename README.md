@@ -60,9 +60,9 @@ An all-in-one Android application designed for **students and wardens** at NMIMS
 
 If you'd like to collaborate, try out the app, or contribute, feel free to connect with me here:
 
-[![LinkedIn](www.linkedin.com/in/
+LinkedIn (www.linkedin.com/in/
 hrushikumbhare
-Vanity URL name)
+)
 
 ---
 
