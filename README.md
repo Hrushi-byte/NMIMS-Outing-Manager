@@ -1,4 +1,4 @@
-# 🛡️ OutingManager – NMIMS Shirpur Outing Management Application
+# 🛡️ OutingManager – NMIMS Outing Management Application
 
 ## Overview
 OutingManager is an Android application built for NMIMS Shirpur to simplify and digitize the entire campus outing permission process for students and wardens. The app enables quick outing requests, real-time approval tracking, chatbot assistance, QR-based verification, and warden-side decision management — all powered by Firebase with modern UI/UX.
