@@ -94,7 +94,6 @@ hrushikumbhare
 
 <img width="342" height="770" alt="r" src="https://github.com/user-attachments/assets/03d09eac-e62c-4460-8cb8-21fbe176e14f" />
 
-<img width="342" height="770" alt="t" src="https://github.com/user-attachments/assets/faa75292-b25f-4dc1-9d5f-59bfb06e30fe" />
 
 
 
